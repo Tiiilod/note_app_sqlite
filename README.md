@@ -31,4 +31,6 @@ Sinkronisasi dengan cloud (misalnya Firebase).
 🤝 Kontribusi Pull request sangat diterima. Untuk perubahan besar, silakan buka issue terlebih dahulu untuk berdiskusi.
 
 📜 Lisensi Proyek ini menggunakan lisensi MIT – silakan gunakan, modifikasi, dan distribusikan dengan bebas.
+
+
 <img width="487" height="1037" alt="image" src="https://github.com/user-attachments/assets/e9c1fecd-3707-4092-90c9-246adefb7cb2" />
